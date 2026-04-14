@@ -1,2 +1,1 @@
-Mi nombre es Juan Nicolas Fiakosky, actualmente me desempeño como programador. 
-Tecnologías: Manejo de HTML5, CSS3, JavaScript, React JS, Python, SQL, Power BI, entre otras. 
+Mi nombre es Juan Nicolas Fiakosky, soy programador Full Stack. Me considero un apasionado por la programación, comprometido con el aprendizaje continuo y el desarrollo profesional en el mundo de la tecnología. Ansioso por contribuir en proyectos desafiantes y colaborar con equipos innovadores.
